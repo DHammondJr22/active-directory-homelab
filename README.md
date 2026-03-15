@@ -1,2 +1,34 @@
-# active-directory-homelab
-In this project, I completed an end-to-end IT home lab that involved disassembling my old 2019 Acer Aspire 5 laptop, installing Windows 11, configuring virtualization, and building a fully functional Active Directory domain environment using Windows Server 2022 and VMware Workstation Pro.
+# Active Directory Homelab
+
+## Overview
+This project documents my Windows Server homelab where I configured Active Directory Domain Services, DNS, DHCP, and joined a client machine to the domain.
+
+## Goals
+- Build a basic enterprise-style Windows domain
+- Practice server administration
+- Understand identity and access management
+- Simulate real-world IT support and sysadmin tasks
+
+## Technologies Used
+- Windows Server 2022
+- Active Directory Domain Services
+- DNS
+- DHCP
+- Windows 10/11 client
+- VMware or VirtualBox
+
+
+## Tasks Completed
+- Installed Windows Server
+- Promoted server to domain controller
+- Configured DNS
+- Configured DHCP scope
+- Created AD users/groups
+- Joined client PC to domain
+
+
+## Skills Demonstrated
+- Server installation
+- Domain administration
+- Network services configuration
+- Troubleshooting
